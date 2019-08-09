@@ -1,6 +1,6 @@
 import web3 from './web3';
 
-const address = "0xa747E4269E34bA7596d4Df9bA0b6335d455dc66c";
+const address = "0xa747E4269E34bA7596d4Df9bA0b6335d455dc66c"; // deployted to address from deploy.js in solidity  Ex: result.options.address
 
 const abi = [
   {
